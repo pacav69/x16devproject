@@ -1,8 +1,45 @@
 # Commander x16  development tools
 
-This is a development environment for Commander x16 and Commodore 64 computers
-It is assumed that you have visual studio code installed
 
+![Writing code title](images/writingcodecropped200.png)
+### Commander x16 Website
+[Visit Commander x16 Website](https://www.commanderx16.com/)
+
+<a href="https://www.buymeacoffee.com/cavtronics" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+ <a href="https://www.buymeacoffee.com/cavtronics" title="Donate to my libraries using BuyMeACoffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-orange.svg?logo=buy-me-a-coffee&logoColor=FFDD00" style="height: 20px !important;width: 200px !important;" ></a>
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
+## Version
+
+current version v0.2.0
+
+## Introduction
+
+This is a development environment for Commander x16 and Commodore 64 computers.
+It is assumed that you have Visual Studio Code installed.
+
+## Changelog
+
+check the changelog.txt for history and list of changes
+
+## Using the tools and Installation
+
+Read the Instructions.md for how-to configure and use.
+
+## Contributing
+
+If you found an error, a typo or have an idea and wish to contribute
+read the Contributing.md file
+
+## Cloning
+
+To clone create a subdirectory then change to that directory and use the following command from the command prompt:
+
+        git clone  https://github.com/pacav69/x16devproject
+
+this will copy the files to your computer into the created subdirectory.
 
 ## Tools used
 
@@ -12,10 +49,6 @@ It is assumed that you have visual studio code installed
 Visual Studio Code Editor - [found here](https://visualstudio.microsoft.com/)
 
 * ACME Cross assembler [found here](https://csdb.dk/release/?id=193302)
-
-## Installation
-
-First read the instructions [file](instructions.md)
 
 ## Videos and tutorials
 
@@ -28,121 +61,55 @@ First read the instructions [file](instructions.md)
 
 ## Visual Studio Code extensions
 
-VS64 - The C64 Development Environment  [here](https://marketplace.visualstudio.com/items?itemName=rosc.vs64)
- C64 [here](https://marketplace.visualstudio.com/items?itemName=gverduci.c64basicv2)
- kick-assembler [here](https://marketplace.visualstudio.com/items?itemName=paulhocker.kick-assembler-vscode-ext)
+* VS64 - The C64 Development Environment  [here](https://marketplace.visualstudio.com/items?itemName=rosc.vs64)
+ * C64 [here](https://marketplace.visualstudio.com/items?itemName=gverduci.c64basicv2)
+ * kick-assembler [here](https://marketplace.visualstudio.com/items?itemName=paulhocker.kick-assembler-vscode-ext)
+* Some VSCode extensions in 2023 video [here](https://www.youtube.com/watch?v=DNf6Bu7z4vw&ab_channel=DevtipsbyMoHo)
 
-## Set up environment
-
-### Commander x16
+### Commander x16 links
 
 * reference  manual [here](https://github.com/x16community/x16-docs)
 * forum [here](https://www.commanderx16.com/forum)
 * Commander x16 emulator [here](https://github.com/x16community/x16-emulator)
+retro-code  gitlab [here](https://gitlab.com/retro-coder/commanderx16)
 
 ## C64 References
 
-from [here](https://github.com/X16Community/x16-docs/issues/83)
-cbm docs [here](https://sta.c64.org/cbmdocs.html)
- C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
+* Existing reference material [here](https://github.com/X16Community/x16-docs/issues/83)
+* cbm docs [here](https://sta.c64.org/cbmdocs.html)
+ * C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
 
-cbm64krnfunc  [here](http://sta.c64.org/cbm64krnfunc.html)
-c64 kernal rom  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
-c64ref  [here](https://www.pagetable.com/c64ref/kernal/)
+* cbm64 kernal function  [here](http://sta.c64.org/cbm64krnfunc.html)
+* c64 kernal ROM  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
+* c64 reference  [here](https://www.pagetable.com/c64ref/kernal/)
 
 Here's some more, courtesy of @JimmyDansbo :
- c64 kernal routines [here](https://www1.cx16.dk/c64-kernal-routines/)
- c128-kernal-routines [here](https://www1.cx16.dk/c128-kernal-routines/)
-
- 6502opcodes [here](http://6502.org/tutorials/6502opcodes.html)
- 65c02opcodes [here](http://www.6502.org/tutorials/65c02opcodes.html)
+ * c64 kernal routines [here](https://www1.cx16.dk/c64-kernal-routines/)
+ * c128-kernal-routines [here](https://www1.cx16.dk/c128-kernal-routines/)
+* 6502opcodes [here](http://6502.org/tutorials/6502opcodes.html)
+ * 65c02opcodes [here](http://www.6502.org/tutorials/65c02opcodes.html)
 
 Maybe less useful on the x16:
-C64disasm [here](https://www.pagetable.com/c64ref/c64disasm/)
-mapc6411 [here](https://project64.c64.org/Software/mapc6411.txt)
+* C64disasm [here](https://www.pagetable.com/c64ref/c64disasm/)
+* mapc6411 [here](https://project64.c64.org/Software/mapc6411.txt)
 
 ### Assemblers
 
 * Acme cross assembler for windows [here](https://sourceforge.net/projects/acme-crossass/files/win32/acme0.97win.zip/download)
-
 * cc65 compiler [here](https://cc65.github.io/)
 * KickAssembler main page [here]( http://theweb.dk/KickAssembler/Main.html#frontpage)
-
 * KickAssembler zip file [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
 
 ### Emulators
 
+* Commander x16 [here](https://github.com/x16community/x16-emulator)
 * SNES emulator (fceux) [here](https://fceux.com/web/home.html)
 * BizHawk is a multi-platform emulator  [here](https://tasvideos.org/Bizhawk)
 
-### ca65 Macro Assembler Language Support
+## Support
 
-Add this extension to VSCode
+<img src="https://vangogh.teespring.com/v3/image/SugZ-DRGZXUTuSzfrFtaOU3TAUQ/800/800.jpg" width="100px"  height="100px">
 
-In VSCode goto extensions
-search for ca65
-select: ca65 Macro Assembler
+[Help support by buying some merchandise](https://cavtronics-3.creator-spring.com/)
 
-Name: ca65 Macro Assembler Language Support (6502/65816)
-Id: tlgkccampbell.code-ca65
-Description: Provides language support for the ca65 macro assembler.
-Version: 1.2.4
-Publisher: Cole Campbell
-VS Marketplace Link: [here](https://marketplace.visualstudio.com/items?itemName=tlgkccampbell.code-ca65)
-
-select test.asm ffile
-press control+shift+p
-type
-    configure default build task
-
-then enter
-select
-    ca65: compile and link selected file
-
-this opens a task.json file
-
-to run type
-
-    run default build task
-
-then enter
-
-## Using Acme
-
-select test.asm file
-press control+shift+p
-type
-    configure default build task
-
-then press enter
-select
-     acme: Compile and Link Current File
-
-this opens a task.json file
-
-to run type
-
-    run default build task
-or
-    ctrl+shift+b
-
-then press enter
-
-* or open the following file:
-
-    .vscode\tasks.json
-
-under the heading
-
-    acme: Compile and Link Current File
-
-edit the path to acme.exe
-
-    "command": "c://path//to//acme.exe  -o ${fileBasenameNoExtension}.prg ${file}"
-
-* this will compile the current selected file
-* the -o is the output file located in the base
-
-DevtipsbyMoH [here](https://www.youtube.com/watch?v=DNf6Bu7z4vw&ab_channel=DevtipsbyMoHo)
-
-retro-code [here](https://gitlab.com/retro-coder/commanderx16)
+## Acknowledgements
