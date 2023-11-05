@@ -9,6 +9,7 @@ type @recommended
 select workspace recommendations
 install VS64 - The C64 Development Environment
 
+## VS64 getting started
 
 open command palette by pressing
 ctrl+shift+p
