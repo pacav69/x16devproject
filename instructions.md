@@ -7,7 +7,8 @@
 goto extensions tab or shortcut ctrl+shift+x
 type @recommended
 select workspace recommendations
-install VS64
+install VS64 - The C64 Development Environment
+
 
 open command palette by pressing
 ctrl+shift+p
@@ -16,6 +17,8 @@ type
     VS64
 
 select VS64:getting started
+
+then fill in the settings
 
 ## ACME cross assembler
 
@@ -40,3 +43,11 @@ add recommended emulator args
 
 open command palette by pressing
 ctrl+shift+p
+
+
+
+
+## Update changelog
+
+record changes made to files in the changelog.txt so other people can see what was modified
+

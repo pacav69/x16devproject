@@ -1,10 +1,21 @@
 # Commander x16  development tools
 
+This is a development environment for Commander x16 and Commodore 64 computers
+It is assumed that you have visual studio code installed
+
+
+## Tools used
+
+* Visual Studio Code
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studio Code logo" style="height: 50px; width:60px;"/>
+
+Visual Studio Code Editor - [found here](https://visualstudio.microsoft.com/)
+
+* ACME Cross assembler [found here](https://csdb.dk/release/?id=193302)
+
 ## Installation
 
 First read the instructions [file](instructions.md)
-
-
 
 ## Videos and tutorials
 
@@ -17,14 +28,9 @@ First read the instructions [file](instructions.md)
 
 ## Visual Studio Code extensions
 
+VS64 - The C64 Development Environment  [here](https://marketplace.visualstudio.com/items?itemName=rosc.vs64)
  C64 [here](https://marketplace.visualstudio.com/items?itemName=gverduci.c64basicv2)
  kick-assembler [here](https://marketplace.visualstudio.com/items?itemName=paulhocker.kick-assembler-vscode-ext)
-
-## CMD references
-
-setx commands  [here](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc755104(v=ws.10)?redirectedfrom=MSDN)
-
-environment-variable-ref  [here](https://stackoverflow.com/questions/9546324/adding-a-directory-to-the-path-environment-variable-in-windows)
 
 ## Set up environment
 
@@ -38,6 +44,7 @@ environment-variable-ref  [here](https://stackoverflow.com/questions/9546324/add
 
 from [here](https://github.com/X16Community/x16-docs/issues/83)
 cbm docs [here](https://sta.c64.org/cbmdocs.html)
+ C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
 
 cbm64krnfunc  [here](http://sta.c64.org/cbm64krnfunc.html)
 c64 kernal rom  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
@@ -59,9 +66,9 @@ mapc6411 [here](https://project64.c64.org/Software/mapc6411.txt)
 * Acme cross assembler for windows [here](https://sourceforge.net/projects/acme-crossass/files/win32/acme0.97win.zip/download)
 
 * cc65 compiler [here](https://cc65.github.io/)
-* KickAssembler [here]( http://theweb.dk/KickAssembler/Main.html#frontpage)
+* KickAssembler main page [here]( http://theweb.dk/KickAssembler/Main.html#frontpage)
 
-* KickAssembler  [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
+* KickAssembler zip file [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
 
 ### Emulators
 
@@ -136,6 +143,6 @@ edit the path to acme.exe
 * this will compile the current selected file
 * the -o is the output file located in the base
 
-DevtipsbyMoH [here] (https://www.youtube.com/watch?v=DNf6Bu7z4vw&ab_channel=DevtipsbyMoHo)
+DevtipsbyMoH [here](https://www.youtube.com/watch?v=DNf6Bu7z4vw&ab_channel=DevtipsbyMoHo)
 
-retro-code [here]((https://gitlab.com/retro-coder/commanderx16)
+retro-code [here](https://gitlab.com/retro-coder/commanderx16)
