@@ -44,8 +44,16 @@ add recommended emulator args
 open command palette by pressing
 ctrl+shift+p
 
+## How to create ACME Assembler project
 
+open command palette by pressing
+ctrl+shift+p
+type:
 
+    VS64
+
+select VS64:create ACME Assembler project
+this will create a framework for a ACME project
 
 ## Update changelog
 

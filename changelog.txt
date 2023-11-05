@@ -6,6 +6,7 @@ changelog.txt
 updated readme file
 added Contributing.md
 added writing code image
+updated instructions.md
 
 
 ---------------------------------------------
