@@ -5,3 +5,4 @@ changelog.txt
 ---------------------------------------------
 Initial
 updated instructions
+added cx16-maze.asm as an example by Jimmy Dansbo found here https://github.com/JimmyDansbo/cx16-maze
