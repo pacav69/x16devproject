@@ -9,7 +9,7 @@ type @recommended
 select workspace recommendations
 install VS64
 
-open command palete by pressing
+open command palette by pressing
 ctrl+shift+p
 type
 

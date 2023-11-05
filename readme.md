@@ -2,7 +2,8 @@
 
 ## Installation
 
-First read the instructions file
+First read the instructions [file](instructions.md)
+
 
 
 ## Videos and tutorials
