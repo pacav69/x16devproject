@@ -1,12 +1,24 @@
 # x16  development tools
 
+![Writing code title](images/writingcodecropped200.png)
+
 ## Setup
 
 ## Workspace
 
+### Extensions
+
 goto extensions tab or shortcut ctrl+shift+x
-type @recommended
-select workspace recommendations
+at the top type in the search area:
+
+    @recommended
+
+select workspace recommendations as shown in Figure 1
+
+![workspace recommended](images\workspaacerecommended.png) F
+Figure 1
+
+
 install VS64 - The C64 Development Environment
 
 ## VS64 getting started
