@@ -46,7 +46,7 @@ this will copy the files to your computer into the created subdirectory.
 * Visual Studio Code
 <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/09/vs-code-responsive-01-1.png" alt="Visual Studio Code logo" style="height: 50px; width:60px;"/>
 
-Visual Studio Code Editor - [found here](https://visualstudio.microsoft.com/)
+Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 
 * ACME Cross assembler [found here](https://csdb.dk/release/?id=193302)
 
@@ -71,13 +71,13 @@ Visual Studio Code Editor - [found here](https://visualstudio.microsoft.com/)
 * reference  manual [here](https://github.com/x16community/x16-docs)
 * forum [here](https://www.commanderx16.com/forum)
 * Commander x16 emulator [here](https://github.com/x16community/x16-emulator)
-retro-code  gitlab [here](https://gitlab.com/retro-coder/commanderx16)
+* retro-code  gitlab [here](https://gitlab.com/retro-coder/commanderx16)
 
 ### Data sheets
 
-[W65C02](https://eater.net/datasheets/w65c02s.pdf)
-[W65C22 (VIA)](https://eater.net/datasheets/w65c22.pdf)
-[W65C51 (ACIA)](https://eater.net/datasheets/w65c51n.pdf)
+* [W65C02](https://eater.net/datasheets/w65c02s.pdf)
+* [W65C22 (VIA)](https://eater.net/datasheets/w65c22.pdf)
+* [W65C51 (ACIA)](https://eater.net/datasheets/w65c51n.pdf)
 
 ## C64 References
 
@@ -90,12 +90,14 @@ retro-code  gitlab [here](https://gitlab.com/retro-coder/commanderx16)
 * c64 reference  [here](https://www.pagetable.com/c64ref/kernal/)
 
 Here's some more, courtesy of @JimmyDansbo :
- * c64 kernal routines [here](https://www1.cx16.dk/c64-kernal-routines/)
- * c128-kernal-routines [here](https://www1.cx16.dk/c128-kernal-routines/)
+
+* c64 kernal routines [here](https://www1.cx16.dk/c64-kernal-routines/)
+* c128-kernal-routines [here](https://www1.cx16.dk/c128-kernal-routines/)
 * 6502opcodes [here](http://6502.org/tutorials/6502opcodes.html)
- * 65c02opcodes [here](http://www.6502.org/tutorials/65c02opcodes.html)
+* 65c02opcodes [here](http://www.6502.org/tutorials/65c02opcodes.html)
 
 Maybe less useful on the x16:
+
 * C64disasm [here](https://www.pagetable.com/c64ref/c64disasm/)
 * mapc6411 [here](https://project64.c64.org/Software/mapc6411.txt)
 
