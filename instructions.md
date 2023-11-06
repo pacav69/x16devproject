@@ -15,13 +15,20 @@ at the top type in the search area:
 
 select workspace recommendations as shown in Figure 1
 
-![workspace recommended](images\workspaacerecommended.png) F
+![workspace recommended](images/workspaacerecommended.png)
 Figure 1
 
 
-install VS64 - The C64 Development Environment
+install VS64 - The C64 Development Environment as shown in  Figure 2
 
-## VS64 getting started
+![clicktoinstall](images/clicktoinstallvs64.png)
+Figure 2 Click to install
+
+
+![vs54ss](images\vs64ss.png)
+Figure 3 Screenshot of VS64 extension
+
+## VS64 Getting Started
 
 open command palette by pressing
 ctrl+shift+p
@@ -29,11 +36,15 @@ type
 
     VS64
 
-select VS64:getting started
+select VS64: Getting Started as shown in  Figure 4
+
+
+![gettingsrtarted](images\gettingstarted.png)
+Figure 4 Screenshot of Getting Started
 
 then fill in the settings
 
-## ACME cross assembler
+### ACME cross assembler
 
 if necessary download the ACME cross assembler
 or select from the bin directory
