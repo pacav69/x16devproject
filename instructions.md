@@ -4,7 +4,7 @@
 
 ## Setup
 
-## Workspace
+### Workspace
 
 ### Extensions
 
@@ -54,21 +54,12 @@ add recommended emulator args
 
     -run -prg
 
-open command palette by pressing
-ctrl+shift+p
-
 ## How to create ACME Assembler project
 
-open command palette by pressing
-ctrl+shift+p
+open command palette by pressing ctrl+shift+p
 type:
 
     VS64
 
 select VS64:create ACME Assembler project
-this will create a framework for a ACME project
-
-## Update changelog
-
-record changes made to files in the changelog.txt so other people can see what was modified
-
+this will create a framework for ACME project
