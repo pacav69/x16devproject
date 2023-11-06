@@ -73,6 +73,12 @@ Visual Studio Code Editor - [found here](https://visualstudio.microsoft.com/)
 * Commander x16 emulator [here](https://github.com/x16community/x16-emulator)
 retro-code  gitlab [here](https://gitlab.com/retro-coder/commanderx16)
 
+### Data sheets
+
+[W65C02](https://eater.net/datasheets/w65c02s.pdf)
+[W65C22 (VIA)](https://eater.net/datasheets/w65c22.pdf)
+[W65C51 (ACIA)](https://eater.net/datasheets/w65c51n.pdf)
+
 ## C64 References
 
 * Existing reference material [here](https://github.com/X16Community/x16-docs/issues/83)
