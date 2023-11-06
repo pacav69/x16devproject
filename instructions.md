@@ -63,3 +63,7 @@ type:
 
 select VS64:create ACME Assembler project
 this will create a framework for ACME project
+
+## Developing
+
+It is best practice to place source code in the  src folder
