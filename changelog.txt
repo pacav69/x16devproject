@@ -7,6 +7,7 @@ updated readme file
 added Contributing.md
 added writing code image
 updated instructions.md
+added workspaacerecommended.png
 
 
 ---------------------------------------------
