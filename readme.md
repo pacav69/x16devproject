@@ -1,8 +1,9 @@
 # Commander x16  development tools
 
-
 ![Writing code title](images/writingcodecropped200.png)
-### Commander x16 Website
+
+## Commander x16 Website
+
 [Visit Commander x16 Website](https://www.commanderx16.com/)
 
 <a href="https://www.buymeacoffee.com/cavtronics" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
@@ -62,8 +63,8 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 ## Visual Studio Code extensions
 
 * VS64 - The C64 Development Environment  [here](https://marketplace.visualstudio.com/items?itemName=rosc.vs64)
- * C64 [here](https://marketplace.visualstudio.com/items?itemName=gverduci.c64basicv2)
- * kick-assembler [here](https://marketplace.visualstudio.com/items?itemName=paulhocker.kick-assembler-vscode-ext)
+* C64 [here](https://marketplace.visualstudio.com/items?itemName=gverduci.c64basicv2)
+* kick-assembler [here](https://marketplace.visualstudio.com/items?itemName=paulhocker.kick-assembler-vscode-ext)
 * Some VSCode extensions in 2023 video [here](https://www.youtube.com/watch?v=DNf6Bu7z4vw&ab_channel=DevtipsbyMoHo)
 
 ### Commander x16 links
@@ -83,7 +84,7 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 
 * Existing reference material [here](https://github.com/X16Community/x16-docs/issues/83)
 * cbm docs [here](https://sta.c64.org/cbmdocs.html)
- * C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
+* C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
 
 * cbm64 kernal function  [here](http://sta.c64.org/cbm64krnfunc.html)
 * c64 kernal ROM  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
@@ -98,8 +99,8 @@ Here's some more, courtesy of @JimmyDansbo :
 
 Maybe less useful on the x16:
 
-* C64disasm [here](https://www.pagetable.com/c64ref/c64disasm/)
-* mapc6411 [here](https://project64.c64.org/Software/mapc6411.txt)
+* C64 dissembler [here](https://www.pagetable.com/c64ref/c64disasm/)
+* map c6411 [here](https://project64.c64.org/Software/mapc6411.txt)
 
 ### Assemblers
 
@@ -111,7 +112,7 @@ Maybe less useful on the x16:
 ### Emulators
 
 * Commander x16 [here](https://github.com/x16community/x16-emulator)
-* SNES emulator (fceux) [here](https://fceux.com/web/home.html)
+* SNES emulator (FCEUX) [here](https://fceux.com/web/home.html)
 * BizHawk is a multi-platform emulator  [here](https://tasvideos.org/Bizhawk)
 
 ## Support
