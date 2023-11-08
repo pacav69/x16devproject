@@ -54,7 +54,7 @@ paste the path in the settings to [path to ACME assembler installation]
 
 under the build args add the following:
 
-    -f cbm
+   --cpu 65c02
 
 add emulator file location
 example:
