@@ -1,4 +1,11 @@
 changelog.txt
+---------------------------------------------
+08Nov2023
+---------------------------------------------
+updated readme
+updated instructions
+added readme.txt
+added hello world example
 
 ---------------------------------------------
 06Nov2023

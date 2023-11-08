@@ -14,7 +14,7 @@
 
 ## Version
 
-current version v0.2.0
+current version v0.3.0
 
 ## Introduction
 
@@ -85,6 +85,7 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 * Existing reference material [here](https://github.com/X16Community/x16-docs/issues/83)
 * cbm docs [here](https://sta.c64.org/cbmdocs.html)
 * C64 collections [here](https://www.lyonlabs.org/commodore/onrequest/collections.html)
+* hello world example [here](https://retro-programming.com/hello-world-in-the-c64-machine-code/)
 
 * cbm64 kernal function  [here](http://sta.c64.org/cbm64krnfunc.html)
 * c64 kernal ROM  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
