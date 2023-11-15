@@ -112,6 +112,7 @@ Maybe less useful on the x16:
 * KickAssembler main page [here]( http://theweb.dk/KickAssembler/Main.html#frontpage)
 * KickAssembler zip file [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
 * retro assembler [here](https://enginedesigns.net/retroassembler/)
+* Download .NET 6.0 support for retro assembler [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ### Emulators
 

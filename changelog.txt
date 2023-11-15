@@ -3,7 +3,7 @@ changelog.txt
 ---------------------------------------------
 15Nov2023
 ---------------------------------------------
-added retro assembler
+added retro assembler requires https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 updated x16 emulator to r46
 
 ---------------------------------------------
