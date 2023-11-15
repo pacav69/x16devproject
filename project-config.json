@@ -1,0 +1,33 @@
+{
+    "name": "x16devproject",
+    "description": "Project x16devproject",
+    "toolkit": "acme",
+    "sources": [
+        "bin/acmeinfo/contrib/toacme/src/ab.c",
+        "bin/acmeinfo/contrib/toacme/src/ab3.c",
+        "bin/acmeinfo/contrib/toacme/src/acme.c",
+        "bin/acmeinfo/contrib/toacme/src/f8ab.c",
+        "bin/acmeinfo/contrib/toacme/src/giga.c",
+        "bin/acmeinfo/contrib/toacme/src/gighyp.c",
+        "bin/acmeinfo/contrib/toacme/src/hypra.c",
+        "bin/acmeinfo/contrib/toacme/src/io.c",
+        "bin/acmeinfo/contrib/toacme/src/main.c",
+        "bin/acmeinfo/contrib/toacme/src/mnemo.c",
+        "bin/acmeinfo/contrib/toacme/src/obj.c",
+        "bin/acmeinfo/contrib/toacme/src/pet2iso.c",
+        "bin/acmeinfo/contrib/toacme/src/platform.c",
+        "bin/acmeinfo/contrib/toacme/src/prof.c",
+        "bin/acmeinfo/contrib/toacme/src/scr2iso.c",
+        "bin/acmeinfo/contrib/toacme/src/version.c",
+        "bin/acmeinfo/contrib/toacme/src/vis.c",
+        "src/example/main.asm",
+        "src/helloworld.asm"
+    ],
+    "build": "debug",
+    "definitions": [],
+    "includes": [
+        "bin/acmeinfo/contrib/toacme/src"
+    ],
+    "args": [],
+    "compiler": ""
+}

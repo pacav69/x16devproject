@@ -62,8 +62,8 @@ al 00029B .currentMode
 al 00CDDF .font_init
 al 00C07F .grjsrfar
 al 00CE29 .k_kbdbuf_get
-al 00EB95 .k_sprite_set_image
-al 00EC2F .k_sprite_set_position
+al 00EB98 .k_sprite_set_image
+al 00EC32 .k_sprite_set_position
 al 00C063 .kbdbuf_get
 al 0002A0 .leftMargin
 al 000264 .ptr_fg

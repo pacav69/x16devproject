@@ -59,6 +59,8 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 * TheRetroDesk github files  [here](https://github.com/SlithyMatt/x16-assembly-tutorial)
 * Commander X16 Assembly Project Setup [here](https://www.youtube.com/watch?v=V2vGiIqDXkA&ab_channel=JestinStoffel)
 * Commander X16 6502 Assembly Language Dev Setup [here](https://www.youtube.com/watch?v=oz3E6pGU2KE&ab_channel=Spriteworx)
+* Commander X16 6502 Assembly Language Dev Setup by Spriteworx [here](https://www.youtube.com/watch?v=oz3E6pGU2KE&ab_channel=Spriteworx)
+* Assembly in Basic - Setting up the environment [here](https://www.8bitcoding.com/p/assembly-in-basic-i-setting-up.html)
 
 ## Visual Studio Code extensions
 
@@ -109,6 +111,7 @@ Maybe less useful on the x16:
 * cc65 compiler [here](https://cc65.github.io/)
 * KickAssembler main page [here]( http://theweb.dk/KickAssembler/Main.html#frontpage)
 * KickAssembler zip file [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
+* retro assembler [here](https://enginedesigns.net/retroassembler/)
 
 ### Emulators
 

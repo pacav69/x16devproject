@@ -31,7 +31,7 @@ al 00CC33 .cmd_ls
 al 000246 .command_index
 al 00000B .command_index_l
 al 00000C .command_index_s
-al 00EAC0 .dbgbrk
+al 00EAC3 .dbgbrk
 al 00CF32 .decode_mnemo
 al 00C9CB .disable_f_keys
 al 00D35B .disassemble_line
