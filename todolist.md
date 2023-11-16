@@ -4,3 +4,4 @@
 * add instructions for kickassembler
 * add instructions for Cc65
 * add instructions for Llvm (https://llvm.org)
+* add  instructions for retro assembler

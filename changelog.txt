@@ -1,6 +1,12 @@
 changelog.txt
 
 ---------------------------------------------
+16Nov2023
+---------------------------------------------
+added using instructions for retro assembler
+added helloworldretro.65c02.asm file for testing of retro assembler
+
+---------------------------------------------
 15Nov2023
 ---------------------------------------------
 added retro assembler requires https://dotnet.microsoft.com/en-us/download/dotnet/6.0
