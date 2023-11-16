@@ -62,7 +62,7 @@ add recommended emulator args
 
     -run -prg
 
-## How to create ACME Assembler project
+### How to create ACME Assembler project
 
 open command palette by pressing ctrl+shift+p
 type:
