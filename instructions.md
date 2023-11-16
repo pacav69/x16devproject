@@ -75,3 +75,46 @@ this will create a framework for ACME project
 ## Developing
 
 It is best practice to place source code in the  src folder.
+
+## Retro Assembler (RA)
+
+### RA Setup
+
+make a copy of the retroassembler settings file
+    bin\retroassembler\retroassembler-settings.xml
+
+rename to
+
+    bin\retroassembler\retroassembler-usersettings.xml
+
+then edit this file to the following settings:
+
+    <Setting Name="CpuType" Type="String" Value="65C02" />
+    <Setting Name="OutputFormat" Type="String" Value="prg" />
+
+    <Setting Name="AfterBuild" Type="String" Value="D:\\path\\to\\src\\copy.bat" />
+
+    <Setting Name="Launch" Type="Boolean" Value="false" />
+    <Setting Name="LaunchCommand" Type="String" Value="D:\\path\\to\\bin\\x16emu\\x16emu.exe -scale 1 -quality nearest -debug -prg {0}" />
+
+* -scale 1 scale of display
+* -quality nearest  quality of the display
+* -debug debug mode
+* -prg application
+* {0} file compiled
+
+contents of copy.bat
+
+    @REM copy.bat
+    copy /B /Y helloworldretro.prg D:\path\to\bin\x16emu\
+
+this will copy the compiled file to the emulator directory ready for use with the emulator
+
+
+### Testing setup
+
+* Open the file src\helloworldretro.65c02.asm this file is setup to be complied by RA.
+* With the file focused press the shortcut key for "Retro Assembler: Build & Start".
+* This will compile and copy the prg to the emulator directory, run the emulator then load the file ready to run.
+*
+The 65c02 in the asm filename is to inform the RA to compile for this CPU.

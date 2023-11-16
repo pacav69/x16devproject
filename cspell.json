@@ -10,7 +10,11 @@
         "Dansbo",
         "FCEUX",
         "kernal",
+        "kickassembler",
+        "retroassembler",
         "SNES",
+        "Spriteworx",
+        "workspaacerecommended",
         "x16devproject"
     ],
     "ignoreWords": [],

@@ -16,7 +16,7 @@ Just keep the modified Setting lines in there and it will work fine.
 
 <Settings>
 
-	<Setting Name="CpuType" Type="String" Value="65c02" />
+	<Setting Name="CpuType" Type="String" Value="65C02" />
 	<Setting Name="OutputFormat" Type="String" Value="prg" />
 	<Setting Name="DefaultScreencode" Type="String" Value="screencode,lower" />
 
@@ -36,9 +36,9 @@ Just keep the modified Setting lines in there and it will work fine.
 	<Setting Name="OutputSaveTimeStamp" Type="Boolean" Value="false" />
 	<Setting Name="RandomSeed" Type="Integer" Value="0" />
 	<Setting Name="BeforeBuild" Type="String" Value="" />
-	<Setting Name="AfterBuild" Type="String" Value="" />
+	<Setting Name="AfterBuild" Type="String" Value="D:\\workspace\\x16devproject\\src\\copy.bat" />
 	<Setting Name="Launch" Type="Boolean" Value="false" />
-	<Setting Name="LaunchCommand" Type="String" Value="" />
+	<Setting Name="LaunchCommand" Type="String" Value="D:\\workspace\\x16devproject\\bin\\x16emu\\x16emu.exe -scale 1 -quality nearest -debug -prg {0}" />
 	<Setting Name="UpdateCheck" Type="Boolean" Value="true" />
 
 	<Setting Name="OutputTxtAddressFormatFirst" Type="String" Value="{0:x04} " />
