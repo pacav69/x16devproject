@@ -24,7 +24,7 @@ CHRIN=$FFCF			; CHRIN read from default input
 	ldx	#0			; X register is used to index the string
 output
 	lda	message,x	; Load character from string into A reg
-	beq	exit		; If the character was 0, jump to end label
+	beq	exit		; If the character was 0, jump to exit label
 	jsr	CHROUT		; Output character stored in A register
 	inx				; Increment X register
 	jmp	output		; Jump back to loop label to print next char
