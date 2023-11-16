@@ -2,14 +2,21 @@
 
 ![Writing code title](images/writingcodecropped200.png)
 
-## Setup
+## Development Tools Setup
+
+## Introduction
+
+These are  the development tools needed for creating Commander x16 programs in assembly and BASIC.
+
 
 ### Workspace
 
+Included in the workspace are extensions that can be used to compile assembly code and be run the emulator.
+
 ### Extensions
 
-goto extensions tab or shortcut ctrl+shift+x
-at the top type in the search area:
+Goto extensions tab or shortcut ctrl+shift+x
+at the search bar located at the top type in the area:
 
     @recommended
 
@@ -17,6 +24,8 @@ select workspace recommendations as shown in Figure 1
 
 ![workspace recommended](images/workspaacerecommended.png)
 Figure 1
+
+### VS64 C64 Development Environment
 
 install VS64 - The C64 Development Environment as shown in  Figure 2
 
@@ -118,3 +127,12 @@ this will copy the compiled file to the emulator directory ready for use with th
 * This will compile and copy the prg to the emulator directory, run the emulator then load the file ready to run.
 *
 The 65c02 in the asm filename is to inform the RA to compile for this CPU.
+
+## Kickassembler
+
+## Cc65
+
+## Llvm (https://llvm.org)
+
+
+*
