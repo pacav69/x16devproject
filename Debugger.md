@@ -3,7 +3,7 @@
 
 Debugger ref [here](https://github.com/X16Community/x16-emulator/blob/e4ce4c3598ae37a9313803a6cb42b37878350793/README.md?plain=1#L337)
 
-Video Commander X16 - Using the 6502 Assembly Dev Tools [here](https://www.youtube.com/watch?v=dCLyXvtNixY&ab_channel=Spriteworx)
+Video: Commander X16 - Using the 6502 Assembly Dev Tools [here](https://www.youtube.com/watch?v=dCLyXvtNixY&ab_channel=Spriteworx)
 
 
 --------
