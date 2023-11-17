@@ -1,12 +1,17 @@
-Debugger.md
+<!-- Debugger.md -->
+# Debugger
 
 Debugger ref [here](https://github.com/X16Community/x16-emulator/blob/e4ce4c3598ae37a9313803a6cb42b37878350793/README.md?plain=1#L337)
 
-Commander X16 - Using the 6502 Assembly Dev Tools [here](https://www.youtube.com/watch?v=dCLyXvtNixY&ab_channel=Spriteworx)
-Debugger
---------
+Video Commander X16 - Using the 6502 Assembly Dev Tools [here](https://www.youtube.com/watch?v=dCLyXvtNixY&ab_channel=Spriteworx)
 
-The debugger requires `-debug` to start. Without it, it is disabled.
+
+--------
+![debug](images\debug.png)
+Figure 1 Screenshot of debug
+
+In the command line of the emulator add `-debug` to start the debugger otherwise it is disabled.
+
 
 There are 2 panels you can control. The code panel, the top left half, and the data panel, the bottom half of the screen. You can also edit the contents of the registers PC, A, X, Y, and SP.
 
