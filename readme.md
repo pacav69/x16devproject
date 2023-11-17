@@ -50,6 +50,7 @@ this will copy the files to your computer into the created subdirectory.
 Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 
 * ACME Cross assembler [found here](https://csdb.dk/release/?id=193302)
+* ACME Cross assemble on github [here](https://github.com/meonwax/acme)
 
 ## Videos and tutorials
 
@@ -113,6 +114,7 @@ Maybe less useful on the x16:
 * KickAssembler zip file [here](http://www.theweb.dk/KickAssembler/KickAssembler.zip)
 * retro assembler [here](https://enginedesigns.net/retroassembler/)
 * Download .NET 6.0 support for retro assembler [here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+* acme on github [here](https://github.com/meonwax/acme)
 
 ### Emulators
 
