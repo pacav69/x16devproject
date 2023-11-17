@@ -1,6 +1,12 @@
 changelog.txt
 
 ---------------------------------------------
+17Nov2023
+---------------------------------------------
+added new file: Debugger.md
+added video link Commander X16 - Using the 6502 Assembly Dev Tools
+
+---------------------------------------------
 16Nov2023
 ---------------------------------------------
 added using instructions for retro assembler
