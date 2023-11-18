@@ -14,7 +14,7 @@
 
 ## Version
 
-current version v0.3.0
+current version v0.4.0
 
 ## Introduction
 
