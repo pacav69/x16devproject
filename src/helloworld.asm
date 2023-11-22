@@ -1,5 +1,6 @@
 ; Hello world example
 ; https://github.com/JimmyDansbo/cx16stuff/blob/master/helloworld.asm
+; designed for compiling with ACME assembler
 *=$0801				; Assembled code should start at $0801
 				; (where BASIC programs start)
 				; The real program starts at $0810 = 2064

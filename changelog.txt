@@ -1,6 +1,13 @@
 changelog.txt
 
 ---------------------------------------------
+22Nov2023
+---------------------------------------------
+added to task acme compile and run emulator
+added reference to Petmate is a cross-platform C64 PETSCII image editor.
+added reference to vscode variables-reference handy for tasks.json
+
+---------------------------------------------
 17Nov2023
 ---------------------------------------------
 added new file: Debugger.md

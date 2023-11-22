@@ -1,22 +1,37 @@
 {
     "tasks": [
         {
-            "type": "vs64",
-            "action": "build",
+            "label": "build -> ACME -> x16emu with debug",
+            "type": "shell",
+            "osx": {
+                "command": "bin/mac/acme -f cbm -l build/labels -o build/main.prg code/main.asm && /Applications/Vice/x64.app/Contents/MacOS/x64 -moncommands build/labels build/main.prg 2> /dev/null"
+            },
+            "windows": {
+                "command": "bin\\win\\acme -f cbm -o ${fileBasenameNoExtension}.prg src/${fileBasenameNoExtension}.asm && ${cwd}/bin/win/x16emu/x16emu.exe  -debug -prg ${fileBasenameNoExtension}.prg"
+            },
+            "linux": {
+                "command": "bin/linux/acme -f cbm -l build/labels -o build/main.prg code/main.asm && x64 -moncommands build/labels build/main.prg 2> /dev/null"
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
-            "label": "build project"
-        },
-        {
-            "type": "vs64",
-            "action": "rebuild",
-            "problemMatcher": [
-                "$msvc"
-            ],
-            "group": "build",
-            "label": "vs64: rebuild"
+            "presentation": {
+                "clear": true
+            },
+            "problemMatcher": {
+                "owner": "acme",
+                "fileLocation": [
+                    "relative",
+                    "${workspaceFolder}"
+                ],
+                "pattern": {
+                    "regexp": "^(Error - File\\s+(.*), line (\\d+) (\\(Zone .*\\))?:\\s+(.*))$",
+                    "file": 2,
+                    "location": 3,
+                    "message": 1
+                }
+            }
         }
     ]
 }

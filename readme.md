@@ -14,7 +14,7 @@
 
 ## Version
 
-current version v0.4.0
+current version v0.5.0
 
 ## Introduction
 
@@ -50,7 +50,7 @@ this will copy the files to your computer into the created subdirectory.
 Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 
 * ACME Cross assembler [found here](https://csdb.dk/release/?id=193302)
-* ACME Cross assemble on github [here](https://github.com/meonwax/acme)
+* ACME Cross assembler on github [here](https://github.com/meonwax/acme)
 
 ## Videos and tutorials
 
@@ -93,6 +93,9 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 * cbm64 kernal function  [here](http://sta.c64.org/cbm64krnfunc.html)
 * c64 kernal ROM  [here](https://c64os.com/post/c64kernalrom) pretty good writeup with explanations
 * c64 reference  [here](https://www.pagetable.com/c64ref/kernal/)
+* C64 Kernal routines [here](https://cx16.dk/c64-kernal-routines/)
+* C64 colors [here](https://www.c64-wiki.com/wiki/Color)
+* Petmate is a cross-platform C64 PETSCII image editor. [here](https://nurpax.github.io/petmate/)
 
 Here's some more, courtesy of @JimmyDansbo :
 
@@ -121,6 +124,10 @@ Maybe less useful on the x16:
 * Commander x16 [here](https://github.com/x16community/x16-emulator)
 * SNES emulator (FCEUX) [here](https://fceux.com/web/home.html)
 * BizHawk is a multi-platform emulator  [here](https://tasvideos.org/Bizhawk)
+
+### Visual studio code
+
+vscode variables-reference [here](https://code.visualstudio.com/docs/editor/variables-reference)
 
 ## Support
 

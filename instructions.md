@@ -135,4 +135,6 @@ The 65c02 in the asm filename is to inform the RA to compile for this CPU.
 ## Llvm (https://llvm.org)
 
 
-*
+
+
+vscode variables-reference [here](https://code.visualstudio.com/docs/editor/variables-reference)
