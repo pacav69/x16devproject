@@ -8,7 +8,6 @@
 
 These are  the development tools needed for creating Commander x16 programs in assembly and BASIC.
 
-
 ### Workspace
 
 Included in the workspace are extensions that can be used to compile assembly code and be run the emulator.
@@ -119,22 +118,18 @@ contents of copy.bat
 
 this will copy the compiled file to the emulator directory ready for use with the emulator
 
-
 ### Testing setup
 
 * Open the file src\helloworldretro.65c02.asm this file is setup to be complied by RA.
 * With the file focused press the shortcut key for "Retro Assembler: Build & Start".
 * This will compile and copy the prg to the emulator directory, run the emulator then load the file ready to run.
-*
+
 The 65c02 in the asm filename is to inform the RA to compile for this CPU.
 
 ## Kickassembler
 
 ## Cc65
 
-## Llvm (https://llvm.org)
-
-
-
+## Llvm [here](https://llvm.org)
 
 vscode variables-reference [here](https://code.visualstudio.com/docs/editor/variables-reference)

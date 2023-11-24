@@ -11,12 +11,17 @@
         "FCEUX",
         "kernal",
         "kickassembler",
+        "Petmate",
+        "PETSCII",
         "retroassembler",
         "SNES",
         "Spriteworx",
+        "usersettings",
         "workspaacerecommended",
         "x16devproject"
     ],
-    "ignoreWords": [],
+    "ignoreWords": [
+        "helloworldretro"
+    ],
     "import": []
 }

@@ -5,13 +5,11 @@ Debugger ref [here](https://github.com/X16Community/x16-emulator/blob/e4ce4c3598
 
 Video: Commander X16 - Using the 6502 Assembly Dev Tools [here](https://www.youtube.com/watch?v=dCLyXvtNixY&ab_channel=Spriteworx)
 
-
 --------
 ![debug](images\debug.png)
 Figure 1 Screenshot of debug
 
 In the command line of the emulator add `-debug` to start the debugger otherwise it is disabled.
-
 
 There are 2 panels you can control. The code panel, the top left half, and the data panel, the bottom half of the screen. You can also edit the contents of the registers PC, A, X, Y, and SP.
 
