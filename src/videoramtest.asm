@@ -1,5 +1,6 @@
-; *=$0801
-; !byte $01,$08,$0b,$08,$01,$00,$9e,$32,$30,$36,$31,$00,$00,$00
+*=$0801
+!byte $01,$08,$0b,$08,$01,$00,$9e,$32,$30,$36,$31,$00,$00,$00
+
 !cpu 65c02		; set target processor
 *=$0801				; Assembled code should start at $0801
 				; (where BASIC programs start)
@@ -16,10 +17,10 @@
 				; ($0000 = end of program)
 *=$0810				; Here starts the real program
 
-LDA #0
-STA $9F25	; Select primary VRAM address
-LDA #$20	; VPOKE 1st argument (The 0x00 in this is the 0 bank)
-STA $9F22	; Set primary address bank to 0, stride to 2
+; LDA #0
+; STA $9F25	; Select primary VRAM address
+; LDA #$20	; VPOKE 1st argument (The 0x00 in this is the 0 bank)
+; STA $9F22	; Set primary address bank to 0, stride to 2
 
 ; VPOKE 0,0,2
 ; VPOKE 0,1,8
