@@ -54,6 +54,7 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 
 ## Videos and tutorials
 
+* Using the Commander X16 Integrated Assembly Environment - Codex [here](https://www.youtube.com/watch?v=N3E0MUsqzQo&ab_channel=JestinStoffel)
 * ChibiAkumas  [here](https://www.youtube.com/@ChibiAkumas)
 * ChibiAkumas website [here](https://www.assemblytutorial.com/)
 * TheRetroDesk [here](https://www.youtube.com/watch?v=gqwIzbT_WFU&ab_channel=TheRetroDesk)
