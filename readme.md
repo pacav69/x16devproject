@@ -81,6 +81,8 @@ Visual Studio Code Editor - [found here](https://code.visualstudio.com/)
 ### Data sheets
 
 * [W65C02](https://eater.net/datasheets/w65c02s.pdf)
+* CPU w65c02 datasheet [here](https://westerndesigncenter.com/wdc/documentation/w65c02s.pdf)
+
 * [W65C22 (VIA)](https://eater.net/datasheets/w65c22.pdf)
 * [W65C51 (ACIA)](https://eater.net/datasheets/w65c51n.pdf)
 

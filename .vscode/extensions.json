@@ -21,7 +21,10 @@
 		"tlgkccampbell.code-ca65",
 		"yzhang.markdown-all-in-one",
 		"gverduci.c64basicv2",
-		"EngineDesigns.retroassembler"
+		"EngineDesigns.retroassembler".
+		"willasm.c64opcodes"
+
+
 	],
 
 

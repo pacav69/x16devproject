@@ -1,7 +1,7 @@
 *=$0801
 !byte $01,$08,$0b,$08,$01,$00,$9e,$32,$30,$36,$31,$00,$00,$00
 
-LDA #0
+@ #0
 STA $9F25	; Select primary VRAM address
 LDA #$20	; VPOKE 1st argument (The 0x00 in this is the 0 bank)
 STA $9F22	; Set primary address bank to 0, stride to 2
@@ -26,3 +26,11 @@ next_heart:
 	CPX #5
 	BNE next_heart
 BRK
+	ORA
+	AND
+	BBR
+	BNE
+	RMB0
+
+	ADC
+	AAA
