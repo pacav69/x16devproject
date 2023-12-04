@@ -4,6 +4,7 @@ changelog.txt
 04Dec2023
 ---------------------------------------------
 added c64opcodes extension
+added box comment extension
 
 ---------------------------------------------
 26Nov2023
