@@ -10,7 +10,7 @@ These are  the development tools needed for creating Commander x16 programs in a
 
 ### Workspace
 
-Included in the workspace are extensions that can be used to compile assembly code and be run the emulator.
+Included in the workspace are extensions that can be used to compile assembly code and then run the emulator.
 
 ### Extensions
 
